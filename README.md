@@ -23,9 +23,9 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#funcionalidades-da-aplicação">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-funcionalidades-da-aplicação">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#checkered_flag-execute-o-projeto-localmente">Execute o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#testes-da-aplicação">Testes da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rotating_light-testes-da-aplicação">Testes da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -35,13 +35,13 @@ Nesse desafio, foi criado uma aplicação para treinar os conceitos de React Nat
 
 Essa é a continuação da aplicação que armazena repositórios de portfólio, com <a href="https://github.com/JonasCastro/conceitos-nodejs">backend</a> utilizando o Node.js, e <a href="https://github.com/JonasCastro/conceitos-reactjs">front</a> com ReactJS.
 
-### Funcionalidades da aplicação
+### :wrench: Funcionalidades da aplicação
 
 - **`Listar os repositórios da sua API`**: Deve ser capaz de criar uma lista de todos os repositórios que estão cadastrados na <a href="https://github.com/JonasCastro/conceitos-nodejs">API</a> com os campos **title**, **techs** e número de curtidas seguindo o padrão `${repository.likes} curtidas`, apenas alterando o número para ser dinâmico.
 
 - **`Curtir um repositório listado da API`**: Deve ser capaz de curtir um item da <a href="https://github.com/JonasCastro/conceitos-nodejs">API</a> através de um botão com o texto **Curtir** e deve atualizar o número de likes na listagem no mobile.
 
-### Testes da aplicação
+### :rotating_light: Testes da aplicação
 
 Em cada teste, tem uma breve descrição no que a aplicação deve cumprir para que o teste passe.
 
